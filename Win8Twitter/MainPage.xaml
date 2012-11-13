@@ -8,6 +8,10 @@
     mc:Ignorable="d">
 
     <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
-
+        <StackPanel Margin="20">
+            <Button x:Name="AuthenticationButton" Click="AuthenticationButton_Click_1" Content="Authenticate" ></Button>
+            <Button x:Name="TweetButton" Content="Tweet" Click="TweetButton_Click"></Button>
+            <TextBlock x:Name="StatusTextBlock" Text="status will appear here" FontSize="16"></TextBlock>
+        </StackPanel>
     </Grid>
 </Page>
