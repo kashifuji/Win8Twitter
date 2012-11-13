@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>TwitterRt</id>
+    <version>1.0.4</version>
+    <title />
+    <authors>JohnMichaelHauck</authors>
+    <owners>JohnMichaelHauck</owners>
+    <projectUrl>http://twitterrt.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Add the ability to tweet from your Metro style (WinRT) application.</description>
+    <summary>http://w8isms.blogspot.com/2012/05/posting-to-twitter-from-metro-in-c.html</summary>
+    <releaseNotes>Moved dll to WinRT folder</releaseNotes>
+    <copyright>John Michael Hauck</copyright>
+    <tags>Twitter OAuth Metro WinRt</tags>
+  </metadata>
+</package>
